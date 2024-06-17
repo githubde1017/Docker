@@ -3,7 +3,7 @@
 2. 安裝Docker Desktop，下載網址 https://www.docker.com/products/docker-desktop/ ,安裝後啟動Docker Desktop
 3. Download All Documents files (Dockerfile, Arduino.tar.gz)
 
---CLI-----
+--Command Lines----
 
 open -a Xquartz
 
