@@ -6,6 +6,7 @@
 --CLI-----
 
 open -a Xquartz
+
 xhost +localhost
 
 docker run -it --rm --name arduino-ide \
